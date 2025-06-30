@@ -33,7 +33,6 @@ loan_default_prediction/
 ├── .dockerignore
 ├── .gitignore
 ├── README.md
-├── deploy-aws.sh
 └── LICENSE
 ```
 
