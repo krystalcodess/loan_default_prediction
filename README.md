@@ -140,12 +140,3 @@ curl -X POST "http://localhost:8000/predict" \
 
 ---
 
-## 🆘 Troubleshooting
-
-- **App not loading?** Check ECS task status, logs, and security group rules.
-- **Model loading error?** Ensure model files are present in `data/` before building Docker image.
-- **Wrong predictions?** Verify input data format and field names.
-
----
-
-**For more details, see the comments in each script and the deployment script.**
