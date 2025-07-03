@@ -141,7 +141,7 @@ curl -X POST "http://localhost:8000/predict" \
 ---
 
 ## Demo
-<img width="737" alt="Screenshot 2025-07-01 at 01 16 59" src="https://github.com/user-attachments/assets/90218241-c4dd-4cfd-a4e6-c6b9a6d29802" />
+<img width="1466" alt="Screenshot 2025-07-01 at 01 16 59" src="https://github.com/user-attachments/assets/90218241-c4dd-4cfd-a4e6-c6b9a6d29802" />
 
 <img width="1466" alt="Screenshot 2025-07-01 at 01 17 59" src="https://github.com/user-attachments/assets/9b8af0da-b573-42eb-bba9-89281df9a1e0" />
 
